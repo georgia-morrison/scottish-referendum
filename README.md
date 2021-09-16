@@ -19,3 +19,9 @@ Figure 3: Scatter plot comparing the percentage of voters voting No in the Scott
 
 Figure 3 shows a negative correlation between the percentage of voters against independence and the percentage of voters identifying as only Scottish. It appears those with a strong feeling of identity with Scotland rather than Britain have voted for Independence rather than against, whereas in areas where people don’t exclusively identify as Scottish, there is less of a preference for Independence. The geographical pattern is not as clearly defined as in the previous scenario, with the council areas in  
 the same region being more spread over the graph. 
+
+<img width="253" alt="image" src="https://user-images.githubusercontent.com/87599176/133632372-1e7fce35-1825-47ed-b9db-e95e5683fcae.png">|<img width="244" alt="image" src="https://user-images.githubusercontent.com/87599176/133632834-ab86d995-d358-4a58-a890-035b1da4768c.png">
+:----------:|:----------:
+Figure 5: A scatter plot comparing the percentage of voters voting No in the Scottish Referendum against the percentage of voters over 65 in that council area. The size of the points is proportionate to the number of voters in the council area.|Figure 6: The same scatter plot as Figure 5, however each point is repre represented by the name of the council area the data shows.represented by the name of the council area the data shows.
+
+Unlike the previous graphs there is a positive correlation between the variables in Figure 5. The correlation is not as strong as the previous scenarios. The more voters over 65, the higher the percentage of votes against independence. It can be seen in Figure 6 that major Scottish cities - such as Aberdeen, Edinburgh and Glasgow – have less voters over the age of 65, whereas more remote areas like Orkney and the Borders have an older voter population.
