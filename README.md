@@ -43,7 +43,7 @@ Figure 8 shows an interesting pattern in this comparison, which is the voter tur
 :---------:
 Figure 10: A scatterplot comparing the percentage of people voting in the Scottish Referendum against the percentage of voters over the age of 65 in that council area. The size of the points is proportionate to the number of voters in the area.
 
-We can see form Figure 10 thst there is a positive correlation between the percentage of those exercising their right to vote and the percentage of voters over the age of 65. Overall, in areas with an older voting population, there was a high turnout of voters. We again see that Glasgow and Dundee are outliers at the lower end of the graph.
+We can see form Figure 10 that there is a positive correlation between the percentage of those exercising their right to vote and the percentage of voters over the age of 65. Overall, in areas with an older voting population, there was a high turnout of voters. We again see that Glasgow and Dundee are outliers at the lower end of the graph.
 
 ### 1.4 - Summary and Conclusions
 
