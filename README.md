@@ -1,11 +1,10 @@
 # The Scottish Referendum Report
 
-## Section 1 – The Scottish Referendum
-### 1.1	– Introduction
+### 1	– Introduction
 ### In 2014, Scotland held a referendum in order to determine whether or not Scotland should leave the UK and become an independent state. The data this report will be examines voting patterns based on a series of variables. This report will focus on comparing the percentage of people voting No against unemployment rates, national identity and age. Similarly, this report will compare the turnout of voters against the same three variables. The data in each case is categorised by Scottish Council Area.
   
 
-### 1.2 - Voting Plots
+### 2 - Voting Plots
 
 <img width="248" alt="image" src="https://user-images.githubusercontent.com/87599176/133622393-51102d29-3b8c-435d-9ee3-f4cfe6a64488.png">|<img width="244" alt="image" src="https://user-images.githubusercontent.com/87599176/133622566-3696c24e-93cd-45fd-9afc-b98e0896f2c3.png">
 :---------------:|:---------------:
@@ -26,7 +25,7 @@ Figure 5: A scatter plot comparing the percentage of voters voting No in the Sco
 
 Unlike the previous graphs there is a positive correlation between the variables in Figure 5. The correlation is not as strong as the previous scenarios. The more voters over 65, the higher the percentage of votes against independence. It can be seen in Figure 6 that major Scottish cities - such as Aberdeen, Edinburgh and Glasgow – have less voters over the age of 65, whereas more remote areas like Orkney and the Borders have an older voter population.
 
-### 1.3 - Turnout Plots
+### 3 - Turnout Plots
 |<img width="202" alt="image" src="https://user-images.githubusercontent.com/87599176/133633777-628a9d89-b386-449f-b0a2-36287245a54c.png">|
 :---------:
 Figure 7: A scatterplot comparing the percentage of people voting in the Scottish Referendum against the unemployment rate in that council area. The size of the points is proportionate to the number of voters in the area.
@@ -45,7 +44,7 @@ Figure 10: A scatterplot comparing the percentage of people voting in the Scotti
 
 We can see form Figure 10 that there is a positive correlation between the percentage of those exercising their right to vote and the percentage of voters over the age of 65. Overall, in areas with an older voting population, there was a high turnout of voters. We again see that Glasgow and Dundee are outliers at the lower end of the graph.
 
-### 1.4 - Summary and Conclusions
+### 4 - Summary and Conclusions
 
 In summary a variety of factors impacted on voter patterns in the Scottish Referendum. Looking at unemployment we see that areas with a high unemployment rate tend to be more in favour of Scottish independence. Similarly, those areas with a strong sense of Scottish identity, where high percentages of people are identifying themselves as Scottish only, had a high percentage of votes for Independence. Geographically, we saw that there was a larger number of local authorities in Central Scotland that returned a Yes vote compared to other parts of the country. Looking at the variable of age, we see that areas with an older voter population had more voters against Independence and a higher turnout of voters. It can be noted from the graphs that Glasgow had a significantly lower turnout compared to the other council areas.
 
