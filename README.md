@@ -25,3 +25,16 @@ the same region being more spread over the graph.
 Figure 5: A scatter plot comparing the percentage of voters voting No in the Scottish Referendum against the percentage of voters over 65 in that council area. The size of the points is proportionate to the number of voters in the council area.|Figure 6: The same scatter plot as Figure 5, however each point is repre represented by the name of the council area the data shows.represented by the name of the council area the data shows.
 
 Unlike the previous graphs there is a positive correlation between the variables in Figure 5. The correlation is not as strong as the previous scenarios. The more voters over 65, the higher the percentage of votes against independence. It can be seen in Figure 6 that major Scottish cities - such as Aberdeen, Edinburgh and Glasgow – have less voters over the age of 65, whereas more remote areas like Orkney and the Borders have an older voter population.
+
+### 1.3 - Turnout Plots
+|<img width="202" alt="image" src="https://user-images.githubusercontent.com/87599176/133633777-628a9d89-b386-449f-b0a2-36287245a54c.png">|
+:---------:
+Figure 7: A scatterplot comparing the percentage of people voting in the Scottish Referendum against the unemployment rate in that council area. The size of the points is proportionate to the number of voters in the area.
+
+In general, Figure 7 demonstrates that the unemployment rate has little impact on the voter turnout. Overall, across the country a high percentage of those eligible to vote chose to exercise their right to vote in each council area. The only outliers who had a significantly lower turnout than other areas were Glasgow at around 75% and Dundee at just below 80%.
+
+<img width="226" alt="image" src="https://user-images.githubusercontent.com/87599176/133634073-8da174a9-59c3-42cf-af7e-9e6b01a1bcee.png">|<img width="217" alt="image" src="https://user-images.githubusercontent.com/87599176/133634141-f991e706-5ff7-409f-a232-62731d633dcf.png">
+:-------:|:-------:
+Figure 8: A scatterplot comparing the percentage of people voting in the Scottish Referendum against the percentage of voters identifying as Scottish only. The size of the points is proportionate to the number of voters in the area.|Figure 9: The same scatterplot as Figure 9 however the points are represented by the name of the council area the data shows.
+
+Figure 8 shows an interesting pattern in this comparison, which is the voter turnout of those identifying as Scottish only. There is a weak, negative correlation in the top-right of the graph. We then see four outliers at the lower end of the graph. Geographically, from Figure 9 we see that these four outliers are all major cities in Scotland.
