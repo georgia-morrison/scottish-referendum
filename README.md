@@ -48,3 +48,8 @@ We can see form Figure 10 thst there is a positive correlation between the perce
 ### 1.4 - Summary and Conclusions
 
 In summary a variety of factors impacted on voter patterns in the Scottish Referendum. Looking at unemployment we see that areas with a high unemployment rate tend to be more in favour of Scottish independence. Similarly, those areas with a strong sense of Scottish identity, where high percentages of people are identifying themselves as Scottish only, had a high percentage of votes for Independence. Geographically, we saw that there was a larger number of local authorities in Central Scotland that returned a Yes vote compared to other parts of the country. Looking at the variable of age, we see that areas with an older voter population had more voters against Independence and a higher turnout of voters. It can be noted from the graphs that Glasgow had a significantly lower turnout compared to the other council areas.
+
+---
+
+## Learnings From This Project
+The main aspects of R I learned in this project all relate to graph formatting. Being able to change the point size, and format (shape, text, etc.) has taught me hoe data can be made more accesbile. This makes it easier for more variables to be analysed within one graph, without cluttering the visuals.
