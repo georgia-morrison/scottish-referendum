@@ -38,3 +38,9 @@ In general, Figure 7 demonstrates that the unemployment rate has little impact o
 Figure 8: A scatterplot comparing the percentage of people voting in the Scottish Referendum against the percentage of voters identifying as Scottish only. The size of the points is proportionate to the number of voters in the area.|Figure 9: The same scatterplot as Figure 9 however the points are represented by the name of the council area the data shows.
 
 Figure 8 shows an interesting pattern in this comparison, which is the voter turnout of those identifying as Scottish only. There is a weak, negative correlation in the top-right of the graph. We then see four outliers at the lower end of the graph. Geographically, from Figure 9 we see that these four outliers are all major cities in Scotland.
+
+|<img width="218" alt="image" src="https://user-images.githubusercontent.com/87599176/133634735-6aa189ad-2233-418c-891e-d84339b4518c.png">|
+:---------:
+Figure 10: A scatterplot comparing the percentage of people voting in the Scottish Referendum against the percentage of voters over the age of 65 in that council area. The size of the points is proportionate to the number of voters in the area.
+
+We can see form Figure 10 thst there is a positive correlation between the percentage of those exercising their right to vote and the percentage of voters over the age of 65. Overall, in areas with an older voting population, there was a high turnout of voters. We again see that Glasgow and Dundee are outliers at the lower end of the graph.
