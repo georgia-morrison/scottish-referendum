@@ -52,4 +52,4 @@ In summary a variety of factors impacted on voter patterns in the Scottish Refer
 ---
 
 ## Learnings From This Project
-The main aspects of R I learned in this project all relate to graph formatting. Being able to change the point size, and format (shape, text, etc.) has taught me hoe data can be made more accesbile. This makes it easier for more variables to be analysed within one graph, without cluttering the visuals.
+The main aspects of R I learned in this project all relate to graph formatting. Being able to change the point size, and format (shape, text, etc.) has taught me how data can be made more accessable. This makes it easier for more variables to be analysed within one graph, without cluttering the visuals.
